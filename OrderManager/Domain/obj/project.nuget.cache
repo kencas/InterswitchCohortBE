@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2O1zjB4sYWxB6TbQQpxJIRqMjg5i9WA3M90zBc3k8TDxrRr9RVcIC+xQDJwSBTV+XS16PxCcYHdIKlF3VTSbA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casmir\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\casmir\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\casmir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

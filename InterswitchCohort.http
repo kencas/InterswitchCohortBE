@@ -1,6 +1,0 @@
-@InterswitchCohort_HostAddress = http://localhost:5168
-
-GET {{InterswitchCohort_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

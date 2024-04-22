@@ -6,8 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  
+
   <ItemGroup>
-    <Folder Include="Commands\" />
     <Folder Include="Handlers\" />
     <Folder Include="Validators\" />
     <Folder Include="Util\" />

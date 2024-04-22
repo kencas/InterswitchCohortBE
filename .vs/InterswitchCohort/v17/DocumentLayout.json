@@ -3,16 +3,292 @@
   "WorkspaceRootPath": "C:\\Projects\\InterswitchCohort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{197DA08C-97F3-4C4F-865F-40B910774276}|ProductManager\\API\\API.csproj|c:\\projects\\interswitchcohort\\productmanager\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{197DA08C-97F3-4C4F-865F-40B910774276}|ProductManager\\API\\API.csproj|solutionrelative:productmanager\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{666066D0-8D9C-4D2D-A586-BD89194137CE}|OrderManager\\API\\API.csproj|c:\\projects\\interswitchcohort\\ordermanager\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{666066D0-8D9C-4D2D-A586-BD89194137CE}|OrderManager\\API\\API.csproj|solutionrelative:ordermanager\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\shared\\mappers\\orderlinemappper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\shared\\mappers\\orderlinemappper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\onboarding\\domain\\aggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|solutionrelative:onboarding\\domain\\aggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\ordermanager\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:ordermanager\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\handlers\\getorderlinebynumberhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\handlers\\getorderlinebynumberhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\queries\\getorderlinebynumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\queries\\getorderlinebynumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\ordermanager\\infrastructure\\persistence\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:ordermanager\\infrastructure\\persistence\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\repositories\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\repositories\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\handlers\\checkoutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\handlers\\checkoutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\presentation\\checkoutresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\presentation\\checkoutresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\ordermanager\\infrastructure\\messaging\\impl\\rabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:ordermanager\\infrastructure\\messaging\\impl\\rabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\messaging\\impl\\rabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\messaging\\impl\\rabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\entities\\addressline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\entities\\addressline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\ordermanager\\infrastructure\\persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:ordermanager\\infrastructure\\persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\ordermanager\\infrastructure\\messaging\\irabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:ordermanager\\infrastructure\\messaging\\irabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\ordermanager\\infrastructure\\persistence\\repositories\\orderlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:ordermanager\\infrastructure\\persistence\\repositories\\orderlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\ordermanager\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33B6387D-AA57-464D-A41A-596EB7ECB1A0}|OrderManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:ordermanager\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\aggregate\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\aggregate\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\repositories\\iorderlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\repositories\\iorderlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\ordermanager\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4310A89-A453-4C5C-B4B2-A33CF2A9D1B3}|OrderManager\\Domain\\Domain.csproj|solutionrelative:ordermanager\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\commands\\checkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\commands\\checkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\ordermanager\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0FEFCB-748D-41FB-B4AE-454AB017E9BE}|OrderManager\\Application\\Application.csproj|solutionrelative:ordermanager\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197DA08C-97F3-4C4F-865F-40B910774276}|ProductManager\\API\\API.csproj|c:\\projects\\interswitchcohort\\productmanager\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197DA08C-97F3-4C4F-865F-40B910774276}|ProductManager\\API\\API.csproj|solutionrelative:productmanager\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\messaging\\irabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\messaging\\irabbitmqmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197DA08C-97F3-4C4F-865F-40B910774276}|ProductManager\\API\\API.csproj|c:\\projects\\interswitchcohort\\productmanager\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{197DA08C-97F3-4C4F-865F-40B910774276}|ProductManager\\API\\API.csproj|solutionrelative:productmanager\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\handlers\\getproductsbycategorycodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\handlers\\getproductsbycategorycodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\queries\\getproductsbycategorycodequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\queries\\getproductsbycategorycodequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\shared\\mappers\\productstockmappper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\shared\\mappers\\productstockmappper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\presentation\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\presentation\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\aggregate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\aggregate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\presentation\\updatestockresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\presentation\\updatestockresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\validators\\updatestockcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\validators\\updatestockcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\shared\\validations\\commandvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\shared\\validations\\commandvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\commands\\updatestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\commands\\updatestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\repositories\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\repositories\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\shared\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\shared\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\shared\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\shared\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\onboarding\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|solutionrelative:onboarding\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\onboarding\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|solutionrelative:onboarding\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\handlers\\updatestockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\handlers\\updatestockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\controllers\\onboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\controllers\\onboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\shared\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\shared\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\persistence\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\persistence\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\extensions\\apibehaviorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|solutionrelative:onboarding\\api\\extensions\\apibehaviorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\shared\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\shared\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\onboarding\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|solutionrelative:onboarding\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\persistence\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\persistence\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45E65FF8-A3BD-4E6A-931F-D92C6B51A3A6}|Onboarding\\API\\API.csproj|c:\\projects\\interswitchcohort\\onboarding\\api\\extensions\\corspolicyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +307,8 @@
       "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\handlers\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\validators\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +319,8 @@
       "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\shared\\mappers\\customermappper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\shared\\behaviours\\validatorbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\shared\\behaviours\\validatorbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\onboarding\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|solutionrelative:onboarding\\infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\onboarding\\infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,18 +329,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\onboarding\\application\\shared\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{861AC96E-934C-47EA-82E1-18B4F27262C3}|Onboarding\\Application\\Application.csproj|solutionrelative:onboarding\\application\\shared\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|c:\\projects\\interswitchcohort\\productmanager\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCD5A8F1-CDAF-4A6B-ADE4-69C0BCA808AF}|ProductManager\\Application\\Application.csproj|solutionrelative:productmanager\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\productmanager\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C49320-576C-4757-8ED8-19F6BBF01369}|ProductManager\\Infrastructure\\Infrastructure.csproj|solutionrelative:productmanager\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\onboarding\\domain\\shared\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,18 +355,6 @@
       "RelativeMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|solutionrelative:onboarding\\infrastructure\\persistence\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|c:\\projects\\interswitchcohort\\onboarding\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{00AC6449-7DE5-447A-AF15-E13C5A3BA595}|Onboarding\\Infrastructure\\Infrastructure.csproj|solutionrelative:onboarding\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\onboarding\\domain\\aggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|solutionrelative:onboarding\\domain\\aggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\onboarding\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|solutionrelative:onboarding\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\onboarding\\domain\\repositories\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|solutionrelative:onboarding\\domain\\repositories\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -145,6 +377,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\onboarding\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EA1CE5E-47AB-424D-A6E4-3A047EB5BE45}|Onboarding\\Domain\\Domain.csproj|solutionrelative:onboarding\\domain\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|c:\\projects\\interswitchcohort\\productmanager\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8A1B17-0A7F-4307-A323-6B61F3AA7276}|ProductManager\\Domain\\Domain.csproj|solutionrelative:productmanager\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +390,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,20 +414,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "API",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\API.csproj",
-              "RelativeDocumentMoniker": "Onboarding\\API\\API.csproj",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\API.csproj",
-              "RelativeToolTip": "Onboarding\\API\\API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T07:50:23.984Z",
+              "DocumentIndex": 9,
+              "Title": "GetOrderLineByNumberQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Queries\\GetOrderLineByNumberQuery.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\Queries\\GetOrderLineByNumberQuery.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Queries\\GetOrderLineByNumberQuery.cs",
+              "RelativeToolTip": "OrderManager\\Application\\Queries\\GetOrderLineByNumberQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:26:07.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "RelativeToolTip": "OrderManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:23:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckoutCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Handlers\\CheckoutCommandHandler.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\Handlers\\CheckoutCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Handlers\\CheckoutCommandHandler.cs",
+              "RelativeToolTip": "OrderManager\\Application\\Handlers\\CheckoutCommandHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:21:31.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckoutResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Presentation\\CheckoutResponse.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\Presentation\\CheckoutResponse.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Presentation\\CheckoutResponse.cs",
+              "RelativeToolTip": "OrderManager\\Application\\Presentation\\CheckoutResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:23:13.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Onboarding\\API\\Program.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Program.cs",
+              "RelativeToolTip": "Onboarding\\API\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:46:42.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Dockerfile",
+              "RelativeDocumentMoniker": "Onboarding\\API\\Dockerfile",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Dockerfile",
+              "RelativeToolTip": "Onboarding\\API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T12:33:51.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\API\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductManager\\API\\Dockerfile",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\API\\Dockerfile",
+              "RelativeToolTip": "ProductManager\\API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T10:45:05.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\appsettings.json",
               "RelativeDocumentMoniker": "Onboarding\\API\\appsettings.json",
@@ -204,345 +522,602 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Program.cs",
-              "RelativeDocumentMoniker": "Onboarding\\API\\Program.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Program.cs",
-              "RelativeToolTip": "Onboarding\\API\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAYAAAARAAAA",
+              "DocumentIndex": 7,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Infrastructure\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeToolTip": "OrderManager\\Infrastructure\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:46:42.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CorsPolicyExtensions.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
-              "RelativeDocumentMoniker": "Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
-              "RelativeToolTip": "Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:46:35.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DatabaseSeederExtensions.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
-              "RelativeDocumentMoniker": "Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
-              "RelativeToolTip": "Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:45:51.248Z",
+              "WhenOpened": "2024-04-22T12:28:54.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ErrorHandlerExtensions.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
-              "RelativeDocumentMoniker": "Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
-              "RelativeToolTip": "Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "OrderLineMappper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Shared\\Mappers\\OrderLineMappper.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\Shared\\Mappers\\OrderLineMappper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Shared\\Mappers\\OrderLineMappper.cs",
+              "RelativeToolTip": "OrderManager\\Application\\Shared\\Mappers\\OrderLineMappper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:45:48.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\LoginCommand.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Commands\\LoginCommand.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\LoginCommand.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Commands\\LoginCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:43:02.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Commands\\CreateUserCommand.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\CreateUserCommand.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Commands\\CreateUserCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:42:53.918Z",
+              "WhenOpened": "2024-04-22T12:29:24.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginCommandHandler.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Aggregate\\User.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Domain\\Aggregate\\User.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Aggregate\\User.cs",
+              "RelativeToolTip": "Onboarding\\Domain\\Aggregate\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:34:56.195Z",
+              "WhenOpened": "2024-04-18T15:01:08.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\API\\Dockerfile",
+              "RelativeDocumentMoniker": "OrderManager\\API\\Dockerfile",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\API\\Dockerfile",
+              "RelativeToolTip": "OrderManager\\API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T20:12:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetOrderLineByNumberHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Handlers\\GetOrderLineByNumberHandler.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\Handlers\\GetOrderLineByNumberHandler.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Handlers\\GetOrderLineByNumberHandler.cs",
+              "RelativeToolTip": "OrderManager\\Application\\Handlers\\GetOrderLineByNumberHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:34:00.107Z",
+              "WhenOpened": "2024-04-22T12:20:59.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CreateCustomerCommandValidator.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABLAAAA",
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "OrderManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:41:15.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CustomerMappper.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:41:00.085Z",
+              "WhenOpened": "2024-04-22T12:12:11.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ValidatorBehavior.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Title": "RabbitMQManagementService.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "RelativeToolTip": "OrderManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAEwE4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:37:40.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
-              "RelativeToolTip": "Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:35:19.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:07:57.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Application",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\Application.csproj",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Application.csproj",
-              "RelativeToolTip": "Onboarding\\Application\\Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-19T07:32:09.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Application\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\ServiceExtensions.cs",
-              "RelativeToolTip": "Onboarding\\Application\\ServiceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:26:00.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\ServiceExtensions.cs",
-              "RelativeToolTip": "Onboarding\\Infrastructure\\ServiceExtensions.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:39:37.054Z",
+              "WhenOpened": "2024-04-22T12:21:53.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductManager\\Application\\Class1.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Class1.cs",
-              "RelativeToolTip": "ProductManager\\Application\\Class1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "IRabbitMQManagementService.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "RelativeToolTip": "OrderManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:12:16.946Z",
+              "WhenOpened": "2024-04-22T12:19:21.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "ProductManager\\Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "OrderLineRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Persistence\\Repositories\\OrderLineRepository.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Infrastructure\\Persistence\\Repositories\\OrderLineRepository.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Persistence\\Repositories\\OrderLineRepository.cs",
+              "RelativeToolTip": "OrderManager\\Infrastructure\\Persistence\\Repositories\\OrderLineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:11:44.934Z",
+              "WhenOpened": "2024-04-22T12:17:40.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductManager\\Domain\\Class1.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Class1.cs",
-              "RelativeToolTip": "ProductManager\\Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OrderManager\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "OrderManager\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T12:17:09.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "RelativeToolTip": "OrderManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:10:50.677Z",
+              "WhenOpened": "2024-04-22T12:15:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddressLine.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Entities\\AddressLine.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Entities\\AddressLine.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Entities\\AddressLine.cs",
+              "RelativeToolTip": "OrderManager\\Domain\\Entities\\AddressLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:08:37.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RabbitMQManagementService.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Messaging\\Impl\\RabbitMQManagementService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADgv08AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:41:55.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "IAuthManager.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\IAuthManager.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Domain\\Shared\\IAuthManager.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\IAuthManager.cs",
-              "RelativeToolTip": "Onboarding\\Domain\\Shared\\IAuthManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:18:08.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AuthManager.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\AuthManager.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Domain\\Shared\\AuthManager.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\AuthManager.cs",
-              "RelativeToolTip": "Onboarding\\Domain\\Shared\\AuthManager.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD8AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:16:41.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:11:42.361Z",
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Domain.csproj",
+              "RelativeToolTip": "OrderManager\\Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T12:16:48.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
-              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:11:50.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:13:21.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
-              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:06:13.748Z",
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\Application.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Application.csproj",
+              "RelativeToolTip": "OrderManager\\Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T12:16:30.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "IOrderLineRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IOrderLineRepository.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Repositories\\IOrderLineRepository.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IOrderLineRepository.cs",
+              "RelativeToolTip": "OrderManager\\Domain\\Repositories\\IOrderLineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:12:29.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Repositories\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "OrderManager\\Domain\\Repositories\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:12:27.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Aggregate\\OrderLine.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Aggregate\\OrderLine.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Aggregate\\OrderLine.cs",
+              "RelativeToolTip": "OrderManager\\Domain\\Aggregate\\OrderLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:07:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T09:45:46.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Domain.csproj",
+              "RelativeToolTip": "ProductManager\\Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T09:38:07.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "OrderManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:12:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Application.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Application.csproj",
+              "RelativeToolTip": "ProductManager\\Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T11:40:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OrderManager\\Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:08:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CheckoutCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Commands\\CheckoutCommand.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\Commands\\CheckoutCommand.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\Commands\\CheckoutCommand.cs",
+              "RelativeToolTip": "OrderManager\\Application\\Commands\\CheckoutCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:05:48.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "OrderManager\\Application\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\OrderManager\\Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "OrderManager\\Application\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:14:48.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManager\\API\\Program.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\API\\Program.cs",
+              "RelativeToolTip": "ProductManager\\API\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAnwCwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:32:49.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRabbitMQManagementService.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Messaging\\IRabbitMQManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:34:02.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "ProductManager\\Application\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwBMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:38:21.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\API\\API.csproj",
+              "RelativeDocumentMoniker": "ProductManager\\API\\API.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\API\\API.csproj",
+              "RelativeToolTip": "ProductManager\\API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T20:51:18.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:47:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetProductsByCategoryCodeQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Queries\\GetProductsByCategoryCodeQuery.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Queries\\GetProductsByCategoryCodeQuery.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Queries\\GetProductsByCategoryCodeQuery.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Queries\\GetProductsByCategoryCodeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:35:12.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Handlers\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:34:00.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetProductsByCategoryCodeHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Handlers\\GetProductsByCategoryCodeHandler.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Handlers\\GetProductsByCategoryCodeHandler.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Handlers\\GetProductsByCategoryCodeHandler.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Handlers\\GetProductsByCategoryCodeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:40:47.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductStockMappper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Mappers\\ProductStockMappper.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Shared\\Mappers\\ProductStockMappper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Mappers\\ProductStockMappper.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Shared\\Mappers\\ProductStockMappper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:29:57.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Presentation\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Presentation\\ProductResponse.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Presentation\\ProductResponse.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Presentation\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:36:14.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Aggregate\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Aggregate\\Product.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Aggregate\\Product.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Aggregate\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:38:35.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateStockResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Presentation\\UpdateStockResponse.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Presentation\\UpdateStockResponse.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Presentation\\UpdateStockResponse.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Presentation\\UpdateStockResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:35:50.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:39:33.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:45:01.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CommandValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Validations\\CommandValidationBehavior.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Shared\\Validations\\CommandValidationBehavior.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Validations\\CommandValidationBehavior.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Shared\\Validations\\CommandValidationBehavior.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:31:58.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateStockCommandValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Validators\\UpdateStockCommandValidator.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Validators\\UpdateStockCommandValidator.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Validators\\UpdateStockCommandValidator.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Validators\\UpdateStockCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:31:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Repositories\\IRepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:42:11.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateStockCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Commands\\UpdateStockCommand.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Commands\\UpdateStockCommand.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Commands\\UpdateStockCommand.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Commands\\UpdateStockCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:50:44.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Entities\\Stock.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Entities\\Stock.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Entities\\Stock.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Entities\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:51:55.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:56:57.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Shared\\Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Shared\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Shared\\Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:56:55.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Infrastructure.csproj",
               "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Infrastructure.csproj",
               "RelativeToolTip": "Onboarding\\Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-18T15:06:55.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 55,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Onboarding\\Domain\\Domain.csproj",
@@ -555,7 +1130,405 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 53,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\API.csproj",
+              "RelativeDocumentMoniker": "Onboarding\\API\\API.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\API.csproj",
+              "RelativeToolTip": "Onboarding\\API\\API.csproj",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T07:50:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Application.csproj",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Application.csproj",
+              "RelativeToolTip": "Onboarding\\Application\\Application.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vxwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T07:32:09.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateStockCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Handlers\\UpdateStockCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Application\\Handlers\\UpdateStockCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Application\\Handlers\\UpdateStockCommandHandler.cs",
+              "RelativeToolTip": "ProductManager\\Application\\Handlers\\UpdateStockCommandHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:47:51.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:11:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OnboardingController.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Controllers\\OnboardingController.cs",
+              "RelativeDocumentMoniker": "Onboarding\\API\\Controllers\\OnboardingController.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Controllers\\OnboardingController.cs",
+              "RelativeToolTip": "Onboarding\\API\\Controllers\\OnboardingController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:45:41.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Shared\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Shared\\IDomainEvent.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Shared\\IDomainEvent.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Shared\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:01:00.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:58:38.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:46:55.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ApiBehaviorExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\ApiBehaviorExtensions.cs",
+              "RelativeDocumentMoniker": "Onboarding\\API\\Extensions\\ApiBehaviorExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\ApiBehaviorExtensions.cs",
+              "RelativeToolTip": "Onboarding\\API\\Extensions\\ApiBehaviorExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:46:11.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Shared\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:45:25.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "Onboarding\\Application\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:26:00.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:42:53.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\ServiceExtensions.cs",
+              "RelativeToolTip": "Onboarding\\Infrastructure\\ServiceExtensions.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA1wCsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:39:37.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:43:12.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:40:19.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "ProductManager\\Domain\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:42:09.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "ProductManager\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:37:51.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CorsPolicyExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
+              "RelativeDocumentMoniker": "Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
+              "RelativeToolTip": "Onboarding\\API\\Extensions\\CorsPolicyExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:46:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DatabaseSeederExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
+              "RelativeDocumentMoniker": "Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
+              "RelativeToolTip": "Onboarding\\API\\Extensions\\DatabaseSeederExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:45:51.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ErrorHandlerExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
+              "RelativeDocumentMoniker": "Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
+              "RelativeToolTip": "Onboarding\\API\\Extensions\\ErrorHandlerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:45:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Commands\\LoginCommand.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Commands\\LoginCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:43:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Handlers\\LoginCommandHandler.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBJwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:34:56.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CreateCustomerCommandValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:41:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CustomerMappper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Shared\\Mappers\\CustomerMappper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:41:00.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ValidatorBehavior.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Shared\\Behaviours\\ValidatorBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:37:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Onboarding\\Application\\Shared\\Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:35:19.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:07:57.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IAuthManager.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\IAuthManager.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Domain\\Shared\\IAuthManager.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\IAuthManager.cs",
+              "RelativeToolTip": "Onboarding\\Domain\\Shared\\IAuthManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:18:08.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Domain\\Shared\\AuthManager.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\AuthManager.cs",
+              "RelativeToolTip": "Onboarding\\Domain\\Shared\\AuthManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:16:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:11:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\RepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:11:50.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:13:21.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "RelativeToolTip": "Onboarding\\Infrastructure\\Persistence\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:06:13.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
               "Title": "IRepositoryWrapper.cs",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Repositories\\IRepositoryWrapper.cs",
               "RelativeDocumentMoniker": "Onboarding\\Domain\\Repositories\\IRepositoryWrapper.cs",
@@ -563,25 +1536,11 @@
               "RelativeToolTip": "Onboarding\\Domain\\Repositories\\IRepositoryWrapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:49:33.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:49:33.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Aggregate\\User.cs",
-              "RelativeDocumentMoniker": "Onboarding\\Domain\\Aggregate\\User.cs",
-              "ToolTip": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Aggregate\\User.cs",
-              "RelativeToolTip": "Onboarding\\Domain\\Aggregate\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:01:08.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 89,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Onboarding\\Domain\\Repositories\\IUserRepository.cs",
@@ -589,12 +1548,11 @@
               "RelativeToolTip": "Onboarding\\Domain\\Repositories\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:03:13.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T15:03:13.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 90,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Repositories\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "Onboarding\\Domain\\Repositories\\IRepositoryBase.cs",
@@ -602,12 +1560,11 @@
               "RelativeToolTip": "Onboarding\\Domain\\Repositories\\IRepositoryBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:49:25.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:49:25.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 91,
               "Title": "IAggregateRoot.cs",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\IAggregateRoot.cs",
               "RelativeDocumentMoniker": "Onboarding\\Domain\\Shared\\IAggregateRoot.cs",
@@ -615,12 +1572,11 @@
               "RelativeToolTip": "Onboarding\\Domain\\Shared\\IAggregateRoot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:18:25.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T15:18:25.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 92,
               "Title": "DomainEventBase.cs",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Shared\\DomainEventBase.cs",
               "RelativeDocumentMoniker": "Onboarding\\Domain\\Shared\\DomainEventBase.cs",
@@ -628,12 +1584,11 @@
               "RelativeToolTip": "Onboarding\\Domain\\Shared\\DomainEventBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:18:23.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T15:18:23.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 93,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Projects\\InterswitchCohort\\Onboarding\\Domain\\Repositories\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Onboarding\\Domain\\Repositories\\IUnitOfWork.cs",
@@ -641,12 +1596,7 @@
               "RelativeToolTip": "Onboarding\\Domain\\Repositories\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:16:24.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-04-18T15:16:24.837Z"
             }
           ]
         }

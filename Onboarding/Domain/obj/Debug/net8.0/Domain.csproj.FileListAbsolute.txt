@@ -6,6 +6,7 @@ C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\Domain.Generate
 C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\Domain.dll
 C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Projects\InterswitchCohort\Onboarding\Domain\obj\Debug\net8.0\Domain.pdb

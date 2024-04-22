@@ -1,0 +1,13 @@
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Projects\InterswitchCohort\OrderManager\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Projects\InterswitchCohort\OrderManager\Domain\bin\Debug\net8.0\Domain.dll
+C:\Projects\InterswitchCohort\OrderManager\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.dll
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Projects\InterswitchCohort\OrderManager\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,11 +1,7 @@
 using API.Extensions;
-using Microsoft.Extensions.Logging;
-using Serilog;
 using System.Reflection;
 using Infrastructure;
 using Application;
-using API.Extensions;
-using System;
 using Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 
