@@ -1,4 +1,6 @@
 ﻿using Domain.Aggregate;
+using Domain.Entities;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -25,8 +27,22 @@ namespace Infrastructure.Persistence
         {
             //Define Model Relationship
             base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Setup>().HasData(
+            new Setup
+            {
+                BusinessName = "Group 4",
+                BusinessId = "Cohort-001",
+                BusinessLogo = "Logo",
+                BusinessColorCode = "#007766",
+                BusinessLogoUrl = "Http",
+                CreatedBy = "Kene",
+                ModifiedBy = "Kene"
+            }
+        );
         }
         public DbSet<User> User { get; set; }
-        
+        public DbSet<Setup> Setup { get; set; }
+
     }
 }

@@ -3,6 +3,7 @@ using Application.Commands.Users;
 using Application.Presentation;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics.Metrics;
 
 namespace API.Controllers
 {
@@ -34,6 +35,24 @@ namespace API.Controllers
             }
 
         }
+
+        //[HttpPost("get-all-setups")]
+        // public async Task<ActionResult<IEnumerable<SetupResponse>>> GetAllSetups([FromQuery] GetSetupQuery query)
+        //{
+            
+        
+
+        //    try
+        //    {
+        //        var response = await _mediator.Send(query);
+        //        return Ok(response);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest(ex.Message);
+        //    }
+
+        //}
 
 
         [HttpPost("login")]

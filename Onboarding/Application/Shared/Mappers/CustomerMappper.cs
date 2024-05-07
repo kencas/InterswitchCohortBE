@@ -2,6 +2,7 @@
 using Application.Presentation;
 using AutoMapper;
 using Domain.Aggregate;
+using Domain.Entities;
 
 namespace Application.Shared.Mappers
 {
@@ -12,6 +13,8 @@ namespace Application.Shared.Mappers
             CreateMap<CustomerResponse, User>();
             CreateMap<User, CustomerResponse>();
             CreateMap<CreateUserCommand, User>();
+            CreateMap<List<SetupResponse>, List<Setup>>();
+            CreateMap<List<Setup>, List<SetupResponse>>();
         }
     }
 }

@@ -6,9 +6,40 @@ services:
     context: ./Onboarding
     dockerfile: Dockerfile
    environment: 
-    - CONNECTIONSTRINGS__DEFAULTCONNECTION=Data Source=192.168.1.6,1433;Initial Catalog=ProductServiceDB;User Id=sa;Password=database@1
+    - CONNECTIONSTRINGS__DEFAULTCONNECTION=Data Source=192.168.1.6,1433;Initial Catalog=OnboardingServiceDB;User Id=sa;Password=database@1
    ports:
     - "4201:80"
+
+  ProductService:
+   image: ${DOCKER_REGISTRY-}productmicroservice:v1
+   build:
+    context: ./ProductManager
+    dockerfile: Dockerfile
+   environment: 
+    - CONNECTIONSTRINGS__DEFAULTCONNECTION=Data Source=192.168.1.6,1433;Initial Catalog=ProductServiceDB;User Id=sa;Password=database@1
+   ports:
+    - "4202:80"
+
+  OrderService:
+   image: ${DOCKER_REGISTRY-}productmicroservice:v1
+   build:
+    context: ./OrderManager
+    dockerfile: Dockerfile
+   environment: 
+    - CONNECTIONSTRINGS__DEFAULTCONNECTION=Data Source=192.168.1.6,1433;Initial Catalog=OrderServiceDB;User Id=sa;Password=database@1
+   ports:
+    - "4203:80"
+
+
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3.10.6-management-alpine
+    hostname: my-rabbitmq
+    volumes:
+      - './rabbitmq:/var/lib/rabbitmq/cohort4'
+    ports:
+      - 5672:5672
+      - 15672:15672
   
   db:
         image: "mcr.microsoft.com/mssql/server:2022-latest"

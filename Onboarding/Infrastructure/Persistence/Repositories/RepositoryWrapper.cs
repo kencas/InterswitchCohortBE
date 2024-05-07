@@ -25,6 +25,8 @@ namespace Infrastructure.Persistence.Repositories
             }
         }
 
+        public ISetupRepository Setup => throw new NotImplementedException();
+
         public async Task Save()
         {
             await _repoContext.SaveChangesAsync();
